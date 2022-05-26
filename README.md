@@ -5,3 +5,4 @@
 
 # Technologies 
 
+![gwindows_logo](https://user-images.githubusercontent.com/76002896/170563331-c90a518f-28bc-4315-b5e7-4f51b814484a.png)
