@@ -1,6 +1,6 @@
 ![Design and Developemnt](https://user-images.githubusercontent.com/76002896/165784161-492d6911-5ae4-4132-9724-1ed5e0e31ffc.jpg)
  
-<h3 style="color:blue;">Hello there, I'm Saleem Raes</h3> <br>
+<h3 style="color:blue">Hello there, I'm Saleem Raes</h3> <br>
 I currently work at Verizon as a Software Developer, I have a passion of learning and enhancing my skills and knowledge with a growth mindset. I love solving problems and enjoy debugging.
 
 # Languages and Tools  
