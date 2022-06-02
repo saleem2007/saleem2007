@@ -1,7 +1,7 @@
 ![Design and Developemnt](https://user-images.githubusercontent.com/76002896/165784161-492d6911-5ae4-4132-9724-1ed5e0e31ffc.jpg)
  
 ## Hello there, I'm Saleem Raes <br>
-I currently work at Verizon as a Software Developer, I have a passion of learning and enhancing my skills and knowledge with a growth mindset. I love solving problems and enjoy debugging.
+I currently work at Verizon as a Software Developer, I have a passion of learning and enhancing my skills and knowledge with a growth mindset. I love solving problems and enjoy debugging. I'm currently in Bill Formatting Area known as IFE where I process billing cycle everyday and various tasks based on the need. This requires working in Linux environment, Jenkins CI/CD pipeline, and monitor several servers for the progress of the billing cycle.
 
 # Languages and Tools  
 <p align="center">
